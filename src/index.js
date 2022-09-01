@@ -8,7 +8,7 @@ import { BrowserRouter } from 'react-router-dom';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <BrowserRouter basename='algorithm-visualizer'>
+    <BrowserRouter basename='http://MohamedMaherAli.github.io/algorithm-visualizer'>
       <App />
     </BrowserRouter>
   </React.StrictMode>
